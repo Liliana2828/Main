@@ -42,8 +42,6 @@
 
 
 
-Lo de santiago
-
 .section-team {
   background-color: #54d154;
   padding: 37px 0 63px;
@@ -83,7 +81,7 @@ Lo de santiago
   margin: auto;
 }
 
-.team-icons img {
+.team-iconos img {
   width: 20px;
   height: 20px;
   margin: 4px auto;
@@ -280,4 +278,3 @@ Lo de santiago
   border-radius: 0 0 4px 4px;
   cursor: pointer;
 }
-
