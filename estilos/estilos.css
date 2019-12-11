@@ -47,14 +47,14 @@
   padding: 37px 0 63px;
 }
 
-.team-personas {
+.team-persons {
   width: 920px;
   display: flex;
   justify-content: space-around;
   margin: 0 auto;
 }
 
-.team-personas img {
+.team-persons img {
   height: 124px;
   width: 124px;
   border-radius: 62px;
@@ -62,7 +62,7 @@
   object-fit: contain;
 }
 
-.team-personas-wrap {
+.team-persons-wrap {
   margin: auto;
 }
 
@@ -73,7 +73,7 @@
   margin: 10px auto;
 }
 
-.team-iconos {
+.team-icons {
   height: 28px;
   width: 84px;
   border-radius: 14px;
@@ -81,13 +81,13 @@
   margin: auto;
 }
 
-.team-iconos img {
+.team-icons img {
   width: 20px;
   height: 20px;
   margin: 4px auto;
 }
 
-.team-nombres {
+.team-names {
   display: block;
   text-align: center;
   color: #fff;
@@ -161,7 +161,7 @@
   letter-spacing: 3px;
 }
 
-.footer .team-iconos {
+.footer .team-icons {
   background-color: #e6e7e6;
 }
 
