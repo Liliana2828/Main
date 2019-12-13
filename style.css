@@ -1,4 +1,3 @@
-/style.css
 body {
   width: 100%;
   background-color: #cfcece;
@@ -385,73 +384,20 @@ nav {
   background-position: right 18px center;
   margin: 60px auto 0;
 }
-=======
-*{margin: 0px 0px;}	#fondo{
-	background:url(../img/fondo.jpg);	
-	background-repeat: no-repeat;
-	background-attachment: scroll;
-	background-size: 100% 100%;
-	height: 565px;
-	width: 100%;
-}
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> parent of ae7385f... Estilos:estilos/estilos.css
 
 .section-team {
   background-color: #54d154;
   padding: 37px 0 63px;
 }
 
-<<<<<<< HEAD:style/style.css
 .team-people {
-=======
-.team-persons {
->>>>>>> parent of ae7385f... Estilos:estilos/estilos.css
   width: 920px;
   display: flex;
   justify-content: space-around;
   margin: 0 auto;
 }
 
-<<<<<<< HEAD:style/style.css
 .team-people img {
-=======
-.team-persons img {
->>>>>>> parent of ae7385f... Estilos:estilos/estilos.css
   height: 124px;
   width: 124px;
   border-radius: 62px;
@@ -459,11 +405,7 @@ nav {
   object-fit: contain;
 }
 
-<<<<<<< HEAD:style/style.css
 .team-people-wrap {
-=======
-.team-persons-wrap {
->>>>>>> parent of ae7385f... Estilos:estilos/estilos.css
   margin: auto;
 }
 
@@ -572,7 +514,7 @@ nav {
   text-align: center;
   font-size: 0;
   padding: 0;
-  margin: 0;
+	margin: 0;
   /*clear: both;*/
 }
 
@@ -627,7 +569,7 @@ nav {
   text-align: center;
   font-size: 0;
   padding: 0;
-  margin: 0;
+	margin: 0;
 }
 
 .contacts ul li {
