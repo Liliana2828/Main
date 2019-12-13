@@ -10,7 +10,7 @@ body {
   position: relative;
 }
 
-header {
+header  {
   height: 659px;
   width: 100%;
   background-image: url('images/header_background.png');
