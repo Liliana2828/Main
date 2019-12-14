@@ -1,3 +1,6 @@
+*{margin: 0
+}
+
 body {
   width: 100%;
   background-color: #cfcece;
@@ -620,4 +623,33 @@ nav {
   font-weight: 300;
   border-radius: 0 0 4px 4px;
   cursor: pointer;
+}
+
+.pie {
+  width: 100%;
+  background-color: #222222;
+  height: 148px;
+  position: relative;
+  margin: 0;
+  
+}
+
+.linea {
+  justify-content: center;
+  text-align: center;
+  width: 44px;
+  height: 2px;
+  border: 0px;
+  background-color: #111111;
+}
+
+#foottitle {
+  padding-top: 27px;
+  font-family: 'Montserrat', Arial, sans-serif;
+  color: #111111;
+
+}
+#imagesfooter img{
+  padding: 0px 50PX;
+
 }
